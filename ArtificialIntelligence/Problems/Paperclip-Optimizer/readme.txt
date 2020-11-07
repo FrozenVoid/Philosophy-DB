@@ -1,5 +1,3 @@
-![Clippy's revenge](https://i.postimg.cc/tgxwhs0f/clippy.png)
-
 A paperclip optimizer is a system that depends on a primitive
 utility function to control the behavior of the entire systems:
 If the utility function optimizes for a specific parameter, it 
