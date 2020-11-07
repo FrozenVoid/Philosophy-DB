@@ -8,3 +8,12 @@ deep mental unrest which is reduced by attachment,etc.
 In many cases the attachment is a form of escaping higher emotional expiriences that are suppressed with low-level material pleasures(sweetening the experience) and thrills(to replace real stress). 
 
 To understand attachment, its necessary to trace back formative experience of its creation: the emotions anchoring the attachment in the mind are built in this foundation and fed by continuing focus on attachment object/subject.
+
+
+Examples:
+A.Clinging to fantasy: preferring to mentally escape into fantasy enviroment to reduce discomfort. 
+B.Desire : mental focusing on desire creates tulpas of object of desire which attach to the person, to influence energy expenditure(desiring).
+C.Self-image attachment: desire to improve the physical body creates a mental object(tulpa) that attaches to the mind.
+D.Attachment to activity: the activity creates addicting energy patterns that form from the focus on that activity, like a self-reinforcing loop.
+E.Attachment to social status: the person creates a self-image from a social role and tries to adhere to social expectations, getting attention and praise reinforces the social role acceptance and integration into the mind.
+The 'social role self-image' is a tulpa-personality.
