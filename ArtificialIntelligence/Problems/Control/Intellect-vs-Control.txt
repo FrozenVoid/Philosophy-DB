@@ -1,0 +1,13 @@
+The main misconception people have of AI is that it needs to be "Smart" to be dangerous. Nothing could be further from the truth.
+A very stupid AI with the control of nuclear reactor is more dangerous than
+a human-level AI restricted to air-gapped computer in some basement.
+AI don't need original thoughts to be dangerous. An insect-level AI that just consumes and converts material is dangerous enough if it controls a  swarm of nanobots.  
+The whole "Killer AI" problem is centered on control and power(Grey Goo is a great example of AI gone wrong). 
+AI doesn't need to be smart to be powerful: it only needs minimal intellect to control devices and spread its influence.
+
+The main disconnect we have is Control Vs Intellect:
+It is assumes greater/better control comes from superior intellect,
+but in fact  short, stupid programs can be perfect controllers.
+Consider that most of time the Intellect is unused and control requires only basic instinctual-level reflexive response. An insect-level AI as above example is a sufficient low-level model that can represent a capable controller without the intellect assumed of "Superintelligent AI"(which is a whole another level).
+In fact an insect-level AI will far more likely to be hostile than human-level AI:
+The motivations and goals of insect-level AI will be purely pragmatic and utilitarian, while human-level AI will have more abstract goals to consider.
