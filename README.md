@@ -1,2 +1,2 @@
 # Philosophy-DB
-Various philosophy articles, usually on Eastern Philosophy, Virtual Reality and AI research.
+Various philosophy articles, usually on Eastern Philosophy, Metaphysics, Virtual Reality, Environment and AI research.
