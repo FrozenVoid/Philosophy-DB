@@ -6,6 +6,9 @@ If the utility function optimizes for a specific parameter, it
 will make this parameter(e.g. number of Paperclips produced) the sole
  dominant factor in systems goals, priorities and decisions, regardless of overall system complexity that is driven by the function.
 
+An example is AI ordered to "make the most paperclips" which specializes in technical issues and without cultural comprehension of background issues, would enact a cold and logical plan to maximize its industrial capacity at cost of anything else(a "paperclip maximizer" https://wiki.lesswrong.com/wiki/Paperclip_maximizer ). 
+A proper query would be "make 1 billion paperclips", without any vague or inexact terms. An AI that is properly programmed would even demand to know exact value of term "most" before converting Earth into Paperclip factory hellscape.
+
 Heres how the paperclip-optimizer AI would use utility function to maximize 'human happiness'. 
 
 1.artificial happiness(drugs, brain stimulation, implants)
