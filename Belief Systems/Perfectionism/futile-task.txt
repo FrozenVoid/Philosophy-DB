@@ -1,0 +1,15 @@
+A futile task is any method/system which lacks perfection in
+its final form, that incremental improvement on such task
+doesn't reach perfection of form due inherent system constraint.
+An example could be 'having the highest rating in Chess',
+which at first glance signifies a 'perfect score', but in
+perfectionism such a position implies some inferiority
+as chess players lose games and ratings don't reflect their true
+ability: improving one's chess skills does not reach
+perfect chess-play due limits of human cognition - and ultimately
+chess-play skill improvement is a futile task without a perfection
+of form(invincible chess-play strategy) resulting from its practice.
+A commited perfectionist would reject words such as 'practice makes perfect'
+due limits of practice-based improvement and would instead choose
+different approaches(e.g. a perfect computer chess engine) to reach 
+'task perfection' that doesn't require the futile task of 'practice'.
