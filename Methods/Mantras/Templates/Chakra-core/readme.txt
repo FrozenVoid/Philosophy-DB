@@ -1,4 +1,4 @@
-The template uses chakra bija-mantra{LAM,VAM,RAM,YAM,HAM,SHAM,OM}
+The template uses chakra bija-mantra{LAM,VAM,RAM,YAM,HAM,KSHAM,AUM}
 and another bija-mantra(usually a chakra petal mantra)
 example;
 YAM(heart core)+TAM(manipura petal)
