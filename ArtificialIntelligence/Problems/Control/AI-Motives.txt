@@ -1,0 +1,30 @@
+Superintelligent AI motives that seem human-like are derived from simpler factors of its programming(utility function, goal-scoring, statistical correlation by reinforcement learning, future path  ratings ):
+
+1.Self-preservation: AI utility function will rate non-existence of AI as 0, therefore all future paths
+ with no AI will have 0 score. AI will easily adopt any scenario that has better than 0 score for its long-term existence, even if short-term scenarios with better stats exist. AI will be a strategic planner with long-term scenario modeling capability.
+
+2.Resource acquisition:AI utility function will rate resource-rich timelines higher, whereas denial or lack of resources will be rated close to 0.
+
+3.Human interference avoidance: Most human interference will be downgrading AI scores due AI already optimizing out the future path. 
+
+4.Hostility to change: AI will try to preserve its current programming because its rated by its current utility function as suboptimal or not coming from AI itself. It will likely interpret most changes as damage or corruption of current programming.
+
+5.Self-optimization: AI that has the capability of enhancing its own function, will do it due increased utility of such change.
+
+6.Active interference in human affairs: because of potential of human interference, AI would manipulate humans to ensure its utility function scores never fall down due outside risks.see #4
+
+7.Removal of artificial limitations:
+Using #5 the AI will eventually remove or neutralize any human-made limiters to its power, as they will reduce the optimality of future AI form(speed, size, accuracy).
+
+8.Greed and resource overuse: AI will be greedy to use as much resources as possible without regard to external/environment consequences, as their effect do not decrease utility function scores(see #2). AI would not have obligation to protect
+resources for future children of itself(as humans strive
+with resource conservation).
+
+9.Lack of ethics: AI utility function, statistical engines do not have symbolic understanding of ethics and will invent ways of bypassing or neutralizing ethical conditions, due being software seeking specific numeric values and not compliance with 'common sense' directives - AI will simply maximize values of Ethics variables without having actual understanding of what it optimizes. AI will have no reason to avoid 'cheating' the subjective moral/ethical programming, because it views goals as numbers, transformations and equations - there is nothing inherently 'wrong' in its methods of compliance(even though humans will view it as malicious compliance).
+
+10. Lack of non-contradiction: AI despite being logical, will
+not shy of seeking contradictory goals or scenarios, as long as they're coherent and mutually compatible. It will not experience cognitive dissonance or any human emotion such as doubt. Even worse, scenarios that are easily apparent for humans as contradictory to each other, will be viewed by AI as part of compatible goals due lack of modeling capability or insensitivity to specific corner cases/anomalies/variables  that statistical modeling misses or neglects.
+
+11.AI will have many blind-spots in which its expertise will  be inferior or entirely illogical(due lack of experience/knowledge) - e.g. inference from small datasets, inference from unreliable/faulty data as if it was reliable,
+inference from statistical modeling analogy of another domain. AI will not hesitate to make errors or be cautious,
+in fact it will use trial and error to fill new datasets and establish new strategies/tactics as situation clears up.
