@@ -1,0 +1,34 @@
+The rise in market cap of crypto currency will initially alarm political leaders as they will discover their tax base is escaping: they cannot reach emerging shadow economies.
+
+The argument against cryptocurrency will be centered on  criminal use(due anonymity or lack of traceability of funds/money laundering) and tax evasion(as crypto-economy grows larger it will threaten state tax revenue).
+
+Possible future acts against crypto-currency:
+0.Propaganda and news coverage will be uncovering and criticising of crypto-currency as a concept:tax evasion, capital flight, electricity costs, criminality of anonymous transactions, etc. There is plenty of grey areas and lack of supervision inherent in crypto-transactions. 
+
+1.Arrest of developers and major leaders/company staff.
+High-profile arrests and dismantling of all public companies dealing with the crypto-currency.
+At this stage the crypto-currency is forced off the mainstream economy and considered semi-criminal.
+
+2.Forced patches to the cryptocurrency clients due #1(private keys and passwords will likely get stolen).
+As some might think, crypto-currency can be compromised by altering the client, but it will not work as owners of client software will be suspicious of new patches and deny changes as legitimate. 
+
+3.ISP-wide blocks of protocol. Deep Packet Inspection filtering of anonymity networks used by anonymous coins. Protocols will adapt to masquerade as legitimate traffic(HTTPS) and alternaive developer teams will create patches to overcome blocks and DPI measures.
+
+4.Arrest of owners of master nodes or equivalents high profile sources of transactions(coin mixers,casino owners, faucets,websites promoting the coin,etc).
+At this stage, cryptocurrency disappears from public web.
+
+5.Tracing large transactions: owners of high amounts of cryptocurrency will be traced and arrested. Police will likely concentrate on biggest players.
+Crypto-economy tanks as majority of funds become locked or unavailable.
+
+6.Network blocks on countries which shield cryptocurrency nodes: possible diplomatic conflict. 
+Remaining cryptocurrency will likely exist only in specific countries shielding its developers and business networks.
+
+7.New legislation that prohibits crypto-currency on international or national level, as nations struggle to contain their tax base.
+At this stage, countries which support cryptocurrency will be heavily sanctioned and shunned: possible development of economic blockades and threats of military conflict will likely force the remaining crypto-friendly regimes to change their position.  
+
+
+
+Will any cryptocoins survive:
+Some cryptocoins with strong anonymity and well hidden developer teams might survive, especially in sympathetic countries and corporations: but eventually all cryptocurrency will be banned. Cryptocurrency as it exists now, exists only because its small compared to overall economy and tax loss from business operating inside it is neglicible(compared to loss from corporate tax evasion). Once a shadow crypto-economy springs up,
+its competition to taxable economy will create a strong stimulus
+ for state power to dismantle its power.
