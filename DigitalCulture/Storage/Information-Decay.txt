@@ -1,0 +1,20 @@
+All information that survives has been given preference to be preserved. Server costs, storage costs and transmission costs eventually force the hosts to replace old information with newer or more popular files: same with manuscripts,tapes and books. This is evident in bittorrent and filesharing: only the popular survive. 
+
+Digital culture is saturated with media that competes for storage space. Unlike earlier technology(Books/Manuscripts) digital media has vastly lower lifespan and is not inherently readable(an obscure proprietary format is a lost language for the future). Unless there is initiative to preserve rare(as opposed to "culturally significant"(popular enough) information), the motivation to keep it and host it would serve as the only stimulus. 
+
+The long tail distribution that comes with abundance of information and its growth, quickly escapes the public mind that only cares about the "top 1000" stuff. Unfortunately this tends to accelerate "digital decay"(old media viability loss) when limited storage space is disproportionately allocated for mundane and popular media of the current moment, pushing the rare media further into obscurity each and every year. 
+
+https://en.wikipedia.org/wiki/Digital_Archaeology 
+is fighting a battle with entropy, since the key problem is public attention and copyright laws. Imagine a book/movie/game that rare enough that only 30-50 people in the world have a copy. Its copyrighted, torrents are illegal, filesharing provides only temporary storage - the hosts eventually forget it or die. 
+The problem sequence begins at time where "copyrighted content" is valuable,
+its wide distribution is prohibited by law, but in the future its value
+has declined and lack of copies combined with lack of interest allow the content to be forgotten as source stop replicating new copies and old copies
+ hardware decay destroys the content.
+
+
+Their harddrives are repurposed or wiped,  SSDs reach the write limits/lose
+flash charges, tape drive demagnetize, CDs/DVDs degrade  and the information is lost forever,. In this cases there is no "paper copy" that somehow survives into the future, the information is configuration of (partially corrupted, unknown format)bits in a device somewhere in pile of trash from an ancient dump. 
+
+Archival sites that provide a snapshot copy of old sites, serve as last resort for finding obscure and niche information..except if its copyrighted and someone decides to remove it(site that no longer exists cannot appeal it), which dooms the content from being saved for the future. 
+
+In addition archives represent a single point of failure, like if the entire world used an Library of Alexandria(Archive.org coincidentally has a single mirror-site..in Alexandria, Egypt). In event of crisis that destroys the servers or internet the amount of information lost will dwarf all libraries. These archive sites are not resilient to demands of future/current regimes and are exceptionally flaky in terms of their reach(archive only specific times, parts of sites). 
