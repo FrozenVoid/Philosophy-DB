@@ -1,6 +1,7 @@
 DAM - serenity, stability, growth
 Core Element: Earth
 Secondary Element: Fire / Pacifying 
+Chakra : Solar(Manipura) chakra, petal mantra.
 Associated deities: Vishnu(Preserver aspect)
 DAM is a grounding/stabilizing mantra that reduces anxiety, overthinking and rumination, creating a state of profound serenity.
 It increases Earth element, associated with health, libido and growth.
