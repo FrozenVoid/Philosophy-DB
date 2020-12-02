@@ -18,3 +18,7 @@ flash charges, tape drive demagnetize, CDs/DVDs degrade  and the information is 
 Archival sites that provide a snapshot copy of old sites, serve as last resort for finding obscure and niche information..except if its copyrighted and someone decides to remove it(site that no longer exists cannot appeal it), which dooms the content from being saved for the future. 
 
 In addition archives represent a single point of failure, like if the entire world used an Library of Alexandria(Archive.org coincidentally has a single mirror-site..in Alexandria, Egypt). In event of crisis that destroys the servers or internet the amount of information lost will dwarf all libraries. These archive sites are not resilient to demands of future/current regimes and are exceptionally flaky in terms of their reach(archive only specific times, parts of sites). 
+
+NOTE: I'm not advocating regression to paper-based storage or pre-digital systems(It doesn't scale). I simply point out how inadequate and popularity-based this digital culture is: while the barriers to archival
+are largely technical(lack of long-term storage that doesn't degrade like
+SSD charges), the content that people choose to archival is "whatever is popular now", so even with perfect, cheap multi-PB storage it will be filled with pop-culture junk.
