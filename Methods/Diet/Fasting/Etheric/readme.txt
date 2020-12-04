@@ -1,0 +1,5 @@
+Fasting, and long fasts in particular have beneficial effects but 
+they all reduce body grounding(presence in physical that is dependent on ingesting physical matter(in-dream eating(which often occurs during fasts) may also have effect on grounding closer to physical(etheric) but not close)), increases etheric energy(that has purifying effects) and open one to astral/mental entities(that is often dangerous): most fasting guides mention it as spiritual clarity but its more like openness to other realms.
+Beware of this and use protective measures and mental hygiene. If you have strong emotions coming and not sure if you can handle the psychological stress, its time to consider breaking the fast(though some meditative practices might help too).
+
+In particular intermittent fasting with emphasis on morning eating(6-11 window) will create a loss of grounding/Earth(ironically 6am-10am is the Earth element dominance), which combined with in-dream ingestion of substances  (etheric/astral substrate) amplifies the effect of fasting by replacing material elements(earth/water) with non-physical matter(astral food).
