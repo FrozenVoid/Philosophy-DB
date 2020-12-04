@@ -1,4 +1,4 @@
-Air is connected with expirience of Color(both visual and emotional) and refined emotion, in mental sphere its disciminating intellect and emotional judgement. 
+Air(Vayu) is connected with expirience of Color(both visual and emotional) and refined emotion, in mental sphere its disciminating intellect and emotional judgement. In chinese 5-element system it corresponds to Metal.
 Air dries out physical body due being opposed to Water, as it depletes water: its effects is detrimental on hair and skin(i.e. air-water balance cannot dip high into air territory).
 Heart chakra serves as its basis, though its also dependent on water element to function - the interbalance of Air-water axis controls the fluid transport and general health: Air can be used to reduce excess fluidity and infllamation driven by water/fire - serving as healing energy(astral/emotional).
 Air channel is opened with letter "E" in mantras. Air is least stable element and is very easy to misuse: control of Air is essentially control of all emotion, supressed Air will eventually burst out via elemental rebound and ether-air synergy.
