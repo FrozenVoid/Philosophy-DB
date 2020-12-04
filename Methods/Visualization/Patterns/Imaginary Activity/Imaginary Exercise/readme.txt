@@ -2,7 +2,10 @@ Imaginary exercise involves visualizing yourself
 doing exercises/yoga/hard labor/etc to mentally develop muscle.
 A form of "thoughforming" practice this is 
 risk-free for most of time(just don't imagine yourself as a tulpa image of yourself and you'll be safe).
+
+Visualization can be combined with low-intensity exercise:
 A semi-physical method that doesn't require visualization involves imagining extra weights during low-intensity exercise(e.g. imagine lifting 100kg instead of 1kg).
+
 Watching videos of people doing complex physical activity and imagining yourself as them also helps if you need visualization(e.g. climbing, hand-stands, jumps as reference frame)
 http://www.jonathanfields.com/brain-buff-research-thoughts-on-strength-fitness-weight-loss/
 
