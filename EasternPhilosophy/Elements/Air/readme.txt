@@ -35,6 +35,6 @@ Negative entities exploit Air energy as fuel(emotion-eater)
 Note that unexpected reduction in Air element(especially with mudras) may cause depression-like effects as the level of air regulates psychic flows. The Air element is best reduced by boosting Water which slowly displaces Air.
 
 
-
+Cardinal direction:West
 Associated hinduism deity: https://en.wikipedia.org/wiki/Vayu
 Associated buddhist deity: https://en.wikipedia.org/wiki/Amoghasiddhi
