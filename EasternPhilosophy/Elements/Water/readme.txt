@@ -6,6 +6,7 @@ Overabudance of water may lead to insomnia, restlessness, risky "Hot-blooded" be
 Air vs Water: Air competes with water in emotional sphere, where Air controls "refined" emotions and Water control basic/primal emotion, however it would be a mistake to see Air as being a source of refined soul-moving emotion - it just increases the level of sensitivity to all emotionas and adds color gamuts while water controls Depth of Perception allowing to see/hear/expirience on deeper/primal level.
 Water is considered sacred in most religions(Water of Life) and its flow signifies the fluidity of life. 
 On other hand esoteric views on water(primordial water element) see it as reflection of natural chaos, evolution and ruthless competition for energy(symbolized in blood as aspect of Water).
+Cardinal direction: East
 Associated buddhist deity: https://en.wikipedia.org/wiki/Akshobhya
 Associated hindu deity: https://en.wikipedia.org/wiki/Varuna
 [1] Humor in the sense of "elemental disposition".
