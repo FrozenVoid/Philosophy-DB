@@ -1,0 +1,2 @@
+Bird-friendly stairs can be created by creating a surface on the side of stairs
+that is climbable for small birds(e.g. ducklings) with low step sizes and no steep inclines, e.g. converting one stair into 4-6 smaller stairs that is easy to climb.
