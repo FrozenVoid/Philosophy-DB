@@ -1,0 +1,19 @@
+A narrow intelligence is a specialized intelligence that 
+is limited to function in concept-space of its domain.
+An AI that is general purpose has to adapt to multiple domains;
+that requires either modular(separate component with domain-specific knowledge/training) or generic intelligence(much more complex to adapt/develop).
+Generic intelligence('wide-spectrum intelligence' vs narrow-domain intelligence)
+requires a fluid mindspace accomodating radically different reality models:
+for a single neural network its impossible to adapt to different reality models,
+so such a network would model the overarching 'reality model' of entire world(
+as opposed to narrow domain 'reality models' of video games) to include everything.
+As such approach requires planning it will require simulating  the world-space
+inside the AI to perform any search/optimization techniques, which implies
+ computation resources not available in current technological level,
+forcing the AI to use a simplified model of real world.
+Such a simplified 'world reality model' unlike complete-knowledge of 'video-game 
+reality model' will underperform with complex, novel data:
+the AI will have to learn from incomplete/vague/conflicting data possibly
+ from adversary sources to be a generic intelligence. 
+
+ 
