@@ -1,6 +1,6 @@
 Deep Fakes are computer CGI images or film, generated from
 pre-trained Neural Networks to copy specific
- style(style transfer) into a realistic frame resembling a human:
+ style(style transfer) into a realistic frame resembling a human(usually copied over an existing image/video with new features):
  however a close inspection might reveal the image as
  artificially constructed, having artifacts of composition or insertion.
  GAN networks generate images
