@@ -4,7 +4,7 @@ M-terminal, am-ending, jam-bijamantra.
 /M/AM/readme.txt would describe the AM mantra.
 
 Mantras vowel/consonant balance determine energy flow character:
-Free flow +3 more vowels (TIAO)
+Free flow +3 more vowels (ATIAO)
 Very open +2 more vowels (AORU)
 Open +1 more vowel than consonant (URU)
 Balanced - equal vowels/consonants (AM)
