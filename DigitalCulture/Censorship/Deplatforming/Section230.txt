@@ -1,0 +1,52 @@
+The internet as it exists today, is shaped by 1996 
+US Communications Decency Act, and specifically Section 230:
+"No provider or user of an interactive computer service 
+shall be treated 
+as the publisher or speaker of any information provided by another 
+information content provider."
+This shields platform from having to enforce censorship
+and providing a platform(only users can be sued for content).
+Without section 230, the platform can be sued for user content,
+as party responsible for distribution of such content:
+Section 230 shifts responsibility by giving websites an implied 
+neutral platform status, while it also allows them to moderate content.
+
+Arguments against Section 230 usually concentrate on 
+A.Excess moderation under assummed platform neutrality
+B.Insufficient moderation and excess protection from libel laws.
+Both positions are against free speech, with wide support from
+both mainstream US political parties - signifying a change is
+likely in the future. Such repeal would destroy modern digital landscapte
+due the following:
+1.Content-hosting sites will have a huge liability without platform-status
+to pre-moderate and check every piece of content posted:
+from videos to text comments, the site could be sued for libel,
+defamation or violation of public decency(as Communications Decency Act
+protection for a platform will no longer apply)
+2.A new site based in US will have much more legal burdens:
+radically changing the interpretation of 'public content platform'
+will not allow a 'neutral platform' to exist at all, requiring 
+moderation as there is possibility of law-breaking content.
+3.Any user-contributed content will no longer be immune to
+lawsuits towards the hosting party: anonymity as it exists today
+largely comes from ISP and servers being treated as neutral 'service
+providers' like e.g. electricity companies. This will no longer exist.
+
+
+End-result will be a heavily censored internet with much of user-contgributed
+content either deleted or hidden away in e.g. darknets.
+Its likely TOR or I2P services will continue for sometime, but
+legal measures can be made to block them at protocol level
+(ISP deep packet inspection) and seizing the
+gateway servers/transmission nodes will kill such networks in most
+countries which have legal cooperation with US.
+The bedrock of internet legality is ISP/cloud/server hosting not
+being liable for their user-content, and removing such protection
+effectively turns internet into regimented digital TV:
+services like Youtube will likely turn into sterile digital networks
+with vetted channells and pre-moderated content of mostly 
+commercial variety.
+
+
+
+
