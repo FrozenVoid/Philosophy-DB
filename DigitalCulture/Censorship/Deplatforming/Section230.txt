@@ -3,7 +3,7 @@ US Communications Decency Act, and specifically Section 230:
 "No provider or user of an interactive computer service 
 shall be treated 
 as the publisher or speaker of any information provided by another 
-information content provider."
+information content provider." https://www.wsj.com/articles/the-twenty-six-words-that-created-the-internet-review-protecting-the-providers-11566255518
 This shields platform from having to enforce censorship
 and providing a platform(only users can be sued for content).
 Without section 230, the platform can be sued for user content,
