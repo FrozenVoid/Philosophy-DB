@@ -1,3 +1,4 @@
+major purification mudra, activates apana channel.
 method; combine thumb and middle/ring fingertips.
 need 30cm distance from body to avoid draining astral field,
 as it reduces astral energy(heart),
