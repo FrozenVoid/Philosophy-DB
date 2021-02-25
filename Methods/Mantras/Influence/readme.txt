@@ -6,3 +6,5 @@ Influence of mantra chanting spreads to:
 5.by etheric plane to nearby locales/planes if prolonged chanting continues.
 6.to plane locality of entities/deities that is connected to the mantra energy pattern: usually astral/mental planes. The mantra align the chanter with the plane
 locality on which similar energy patterns dominate: i.e. all entities with same energy patterns, with deities and similar aristocracy(rulers/kings/plane controllers) at the top.
+7.to prime entity(e.g. god/goddess/energy center/prime object/egregore/thought-form/concept) which controls the plane(s) that
+synchronize to the energy pattern in the mantra.
