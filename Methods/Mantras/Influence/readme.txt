@@ -1,3 +1,10 @@
+Range: range of mantra influence is dependent on
+a.time chanted/expirience with mantra.
+b.focus/concentration on mantra.
+c.amount of chanters(doesn't require spatial proximity). 
+d.alignment with time periods(astrology/season/hours of zodiac)
+
+
 Influence of mantra chanting spreads to:
 1.self, by energizing chakras
 2.close relatives/friends/lovers by energy cords connecting chakras.
