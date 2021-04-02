@@ -4,7 +4,13 @@ Elements(and their opposite channel, same applies to toes):
 Ether - middle finger| Space(growth - shrinkage) | void(anti-ether) - palm center
 Fire - thumb | Energy type(hot-cold) |Earth - Ring
  Air - Index | Sensitivity(emotion/reaction vs sense/action)  | Water - Pinky 
-
+ 
+--Types of elemental flows--
+Left hand/leg - Yin/passive(reduce energy)/feminine(subtle/external)/Lower(downwards flows)
+right hand/leg - Yang/active(increase energy)/masculine(focused/internal)/Higher(upwards flows)
+If a mudra has both sides, its attempting to balance but
+the purpose is usually faster served by specific correction
+of yin/yang manually by forcing a side.
 
 
 vs Asana: Asanas are more subtle, long-term reconfiguration
