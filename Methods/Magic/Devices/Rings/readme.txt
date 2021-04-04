@@ -13,13 +13,25 @@ though might be useful for some esoteric effects.
 
 Properties:
 1.Sigils and words: rings can be inscribed with sigils/words/symbols.
+
 2.Charges: ring can be charged with energy, ritual or spell.
+Specific times of day(vata/pitta/kapha time periods) will
+affect energy flow and quality of charges.
+
 3.Entity: Some entities can be bound into rings,
  its possible to tulpaforce an entity inside a ring.
+Use of the ring itself grants it a subtle body
+shared/bound with the soul as it touches the energy fields and subtle bodies of the entity wearing it for prolonged
+periods - further it would allow any entity(bound or created)
+from the ring to bind with the soul of wearer, effectivelly
+possessing the subtle body connected with the ring.
+ 
 4.location: finger(water=pinky,earth=ring,ether=middle,air-index,fire-thumb),
-side of body(left-yin/right-yang),
+side of body(left-yin/right-yang),orientation of ring hand
+towards the cardinal direction from body(towards w/s/n/e),
 placement in finger: at base,below first joint,at first joint,
 below second joint, at second joint, above second joint(near finger top).
+
 5.Material: inner energy of a ring depends on the material,
 which can act as a filter(usually inorganic) or
 multiplier(usually organic material) - a "live ring material" will
