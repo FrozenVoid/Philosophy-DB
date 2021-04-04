@@ -22,6 +22,7 @@ placement in finger: at base,below first joint,at first joint,
 below second joint, at second joint, above second joint(near finger top).
 5.Material: inner energy of a ring depends on the material,
 which can act as a filter(usually inorganic) or
-multiplier(organic material).
+multiplier(usually organic material) - a "live ring material" will
+be charged with warm energy, while "dead ring material" will be cold(energetically draining, e.g. metal).
 
 
