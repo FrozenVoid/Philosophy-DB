@@ -1,7 +1,7 @@
 A magic ring is an object that alters
 energy flow in the finger its worn on.
 Any ring has magic potential, though most are unused in its
-capacity or even have harmful effects as element balance is altered.
+capacity or even have harmful effects as element balance is altered("Ring wearing its wearer").
 Each finger/toe is an elemental channel feeding the ring.
 A ringed hand in a mudra has substantially different
 effect from a naked hand(which is assummed as basis):
