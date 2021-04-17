@@ -8,6 +8,7 @@ and reduces mental stability(Air/Vata).
 YAM greatly increases aesthethic/ethic discernment, improves 'taste' in
 art/music and general creative insight. Emotional life is expanded and enriched:
 however few can handle the extreme air energy flows that YAM initiates.
+YAM magnifies heart energy, also raise blood pressure and increases blood flow generally(accelerated metabolism, stress) due being a petal of sacral chakra(blood - water element).
 YAM and throat chakra: long-term YAM weakens throat chakra, 
 lowering willpower and egocentrism.
 
