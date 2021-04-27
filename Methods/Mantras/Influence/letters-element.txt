@@ -1,0 +1,7 @@
+function mantra(word){
+//deduce elements used
+const mandict={a:"Fire/Mind/Yin/Crown  ",b:"Water/Secondary/Yang-SacralChakra",c:"Moon/Air",d:"Fire/Wisdom/Solar/Yang ",e:"Air/Heart/Sleep",f:"Earth/Yin/Relaxation",g:"Stomach/Water+Fire/Power/Lower Intellect",h:"Throat/Ether/Purifying",i:"Water/Flow/Yang",j:"Air/Yang",k:"ExtremeYang/Anti-air/Water+Fire",l:"Earth/Yang/Grounding",m:"Ether-water/ThirdEye/Yang",n:"Air/Yang/Pain/ExtremeVata",o:"Earth/Yin/Weak/FireDepleter",p:"Water/Yang/Power",q:"Water/Yin",r:"Fire/Yin",s:"Ether-earth/Yin/Weak",t:"Air/Yang/Chest",u:"Ether/Balance/Yin",w:"water/primary/Yang ",v:"Water/Primary/Yang",x:"Ether/water",y:"Heart/Air-Water balance",z:"Air/Yang",Ж:"Air/Earth/Yin",Ц:"Moon/Air/Yang",Ч:"Moon/Yin/Water",Ш:"ThirdEye/Earth/Air-Depletion",Щ:"ThirdEye/Yang"};
+var s=[];
+var w=word.toLowerCase().replace("zh","Ж").replace("tc","Ц").replace("ts","Ц").replace("ch","Ч").replace("sh","Ш").replace("sch","Щ").split("");
+for(var i in w)s[i]=mandict[w[i]];
+return s.join("-> ");}
