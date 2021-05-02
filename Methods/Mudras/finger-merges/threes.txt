@@ -1,0 +1,4 @@
+three-finger merge(move three fingers close together)
+pinky&ring&middle ->apana-kapha merge
+ring&middle&index->apana-vata merge
+middle&index&thumb->vata-pitta merge
