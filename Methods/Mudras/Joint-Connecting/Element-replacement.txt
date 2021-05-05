@@ -1,0 +1,5 @@
+(note that this may overload some elements);
+Finger X middle joint(next above base) is pressed by finger Y tip
+example: middle finger middle joint is pressed by pinky tip of other hand.
+(replacement by compatible element such as air/ether/fire will
+increase the element itself)
