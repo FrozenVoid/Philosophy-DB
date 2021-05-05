@@ -1,0 +1,2 @@
+A top join in a finger X is pressed by tip of finger y.
+Example: top joint of middle finger is pressed by other hand index finger tip.
