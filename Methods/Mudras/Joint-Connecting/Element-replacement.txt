@@ -2,4 +2,12 @@
 Finger X middle joint(next above base) is pressed by finger Y tip
 example: middle finger middle joint is pressed by pinky tip of other hand.
 (replacement by compatible element such as air/ether/fire will
-increase the element itself)
+increase the element itself, due inter-element balance)
+Tip of the Ring(Earth) finger used will add grounding effect
+for any element boosted by fire(air,ether,water,fire),which will
+supress/reduce its flow.
+Tip of Thumb(Fire) finger used will energize the element boosted by fire(air,ether,water,fire) being
+replaced, which may create infflamation and other side effects.
+Tip of the Index(Air) finger also refines the element(except water which opposes it).
+Tip of the Pinky(Water) finger also increases the element flow(except Air, which it supresses).
+Tip of the Middle(Ether) finger adds space for the element to expand or reduces its density(boosts air/ether/fire, reduces water/earth)
