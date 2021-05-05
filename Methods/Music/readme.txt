@@ -18,3 +18,15 @@ which underlie the musical composition and are responsible
 to the elemental effects.
 (binaural/monaural/isochronic beats,sine waves depend on exact frequency used).
 
+Time of day:
+Kapha,Pitta,Vata humors boosts the elements
+of music types that are aligned to them and reduce the intensity
+of opposing elements at the time. 
+
+Kapha time lends some heaviness and raw emotional power to music,
+however it blunts complexity and refinement of instrumentals.
+
+Pitta favors energetic rhythms,fast music which is amplified greatly, it clashes with any calm, refined compositions - energetically its
+still used to promote focused attention.
+
+Vata time is extremely conductive to any refined music, especially with complex emotional background, however it will somewhat boost all musical compositions due being a time of Air dominance.
