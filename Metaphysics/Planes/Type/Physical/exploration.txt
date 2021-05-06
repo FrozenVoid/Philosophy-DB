@@ -8,6 +8,7 @@ Methodics:
 1. goto this site:
 https://randomstreetview.com/
 use country selector for targeted exploration.
+alternative https://showmystreet.com
 
 2.Pick any natural scene. Avoid urban settings,
 as physical plane exploration focuses on natural features:
