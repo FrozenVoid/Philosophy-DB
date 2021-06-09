@@ -35,11 +35,15 @@ taking an X-ray scan is more damaging(etheric body is 'magically vulnerable').
  The principle is either redirection or conversion of incoming
   energy, often 'recharging' the item in process of countering damage.
   
-5b.Magic-absorbing substance - "Magic Armor": various organic substances can
+5b.Magic-absorbing substance - "Magic Armor": various substances can
  absorb etheric/astral energy by bulk mass or charge.
  A more subtle magical energy(mental/astral) will be able bypass uncharged organics:
  i.e. to stop astral energy you need charged astral-level field,
  to stop mental energy you need charged mental-level field.
+
+5c. Metals: metals can absorb astral/etheric energy with bulk
+mass, especially silver.
+ 
  
  6.Plane displacement - "Sealed place": a physical area that has been
  sealed by (non-material) domain walls on etheric/astral 
