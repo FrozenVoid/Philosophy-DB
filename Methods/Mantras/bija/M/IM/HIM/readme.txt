@@ -3,3 +3,4 @@ Elements: Water, Ether. Increased heart/throat chakra activity.
 Increased emotional sensitivity, creativity and inspiration.
 Increased appetite, pain sensitivity, heart power.
 Lucid dreaming improvements: amplifies will & voice power.
+Side effects: insomnia, emotional swings.
