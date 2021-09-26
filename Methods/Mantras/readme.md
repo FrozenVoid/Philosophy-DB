@@ -14,16 +14,16 @@ Mantra cheatsheet
  | CHIT  | Pain removal |
 | HA  |Against Sleepiness, increase healing |
 | HIM | Inspiration , magnified senses |
-| HUM | Reduce hunger, Grounding |
-| GAM | Increase  Strength & Will  |
-| IIM | Increase Energy |
+| HUM | Reduce hunger, Grounding/Stability |
+| GAM | Increase  Strength & Will, Digestion/Fire  |
+| IIM | Increase Energy, Water |
 | JAH | Increased vigor, happiness & life satisfaction |
-| JAM | Block psychic attacks |
+| JAM | Block psychic attacks, Crown chakra |
 | JUM  | Inspiration, Strength,  Focused work |
 | KUT  | Libido reduction, crown chakra | 
 | KRIM | Reduce headache, purification, creativity |
-| RHIM | Increase Luck |
-| RHUM | Healing & energy flow |
+| RHIM | Increase Luck, heals Chest/Throat |
+| RHUM | Healing & energy flow, Heals stomach area |
 | TRIM | Ego reduction, increased sociability |
 | YAM  | Against inflammation and low-blood pressure | 
 | ZHUM | Increase tinnitus(for projection) |
