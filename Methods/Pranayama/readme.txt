@@ -1,6 +1,6 @@
 Pranayama a yogic breathic discipline also used in meditative practices.
-It usually results in 'wind sicksness' or Air element overload, in most people as
- Air element raises emotional sensitivity to level of psychosis.
+It usually results in 'wind sickness' or Air element overload, in most people as
+ Air element raises emotional sensitivity to level of psychosis(Air controls emotion).
  This is obviously a self-destructive practice that has a very narrow
   utility in any spiritual system, as the energy level it generates is out 
   of normal human capacity to contain in the body - its magical use is to
