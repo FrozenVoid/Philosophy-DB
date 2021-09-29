@@ -1,4 +1,4 @@
-Pranayama a yogic breathic discipline also used in meditative practices.
+Pranayama a yogic breathing discipline also used in meditative practices.
 It usually results in 'wind sickness' or Air element overload, in most people as
  Air element raises emotional sensitivity to level of psychosis(Air controls emotion).
  This is obviously a self-destructive practice that has a very narrow
@@ -10,7 +10,7 @@ How it works:
 It creates a tulpa from focusing on breath as entity moving through your body,
  and uses that tulpa as focus object to merge mindstream with it.
  The 'breath' is actually filled with pranic energy and is extremely easy to mold
- into any tulpa/servitor entity, but no pranayam apracticioner will tell you that:
+ into any tulpa/servitor entity, but no pranayama practicioner will tell you that:
  it 'mystery' and 'enlightment' comes from opening mind to pure vata energy('breath of life')
  that is Air element power = Astral energy field and consequently astral projection.
  All tulpas created with pranayama are powerful entities, which will not be easily
