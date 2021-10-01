@@ -6,6 +6,7 @@ Mantra cheatsheet
  |AIM  | Lucid dreaming, creativity |
  |AYEM | Crown chakra activation/power |
 | BHIM  | General health & fitness |
+| CHAM | Reduce fire & ill-will |
 | DAM  | Increase Serenity |
 | DIM | Increase blood circulation & heat |
 | DHIH | Gnosis & increased spirituality |
