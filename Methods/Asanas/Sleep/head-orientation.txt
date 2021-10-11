@@ -1,7 +1,0 @@
-Orientation with head north increases fire,
-head south increases water,
-other directions increase earth and air which can be detrimental
-to health and rarely useful in energy works as earth/air can
-easily increased with food and breathworks(pranayama).
-
-see https://github.com/FrozenVoid/Philosophy-DB/blob/main/EasternPhilosophy/Elements/Meta/Cardinal-direction/readme.txt
