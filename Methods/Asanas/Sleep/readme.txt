@@ -10,10 +10,10 @@ will cause nightmares(colored according to direction)
 
 
 
-|Head Direction | On back | Left side   | Right side |
-|----------- | ---- | ---- | ---- |
-|South|Water|Yin Water+Earth|Yang Water+Fire|
-|North|Air|Yin Air+Fire|Yang Air+Earth|
-|East|Fire|Yin Fire+Water|Yang Fire+Air|
-|West|Earth|Yin Earth+Air|Yang Earth+Water|
+| Had Direction | On back | Left side   | Right side |
+|  ----------- | ------- |  -------- | -------- |
+| South | Water | Yin Water+Earth | Yang Water+Fire |
+| North | Air  | Yin Air+Fire | Yang Air+Earth | 
+| East | Fire | Yin Fire+Water | Yang Fire+Air |
+| West | Earth | Yin Earth+Air | Yang Earth+Water  |
 
