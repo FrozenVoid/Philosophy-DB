@@ -25,6 +25,7 @@ Mantra cheatsheet
 | KRIM | Reduce headache, purification, creativity |
 | RHIM | Increase Luck, heals Chest/Throat |
 | RHUM | Healing & energy flow, Heals stomach area |
+| SUM  | Harmony, Order, Balance |
 | TRIM | Ego reduction, increased sociability |
 | YAM  | Against inflammation and low-blood pressure | 
 | ZHUM | Increase tinnitus(for projection) |
