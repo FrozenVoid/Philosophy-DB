@@ -1,0 +1,5 @@
+Additional Water-element effect will come from
+1. Water reservoirs.
+2. Pipes in the walls/floor.
+3.Underground streams/pipes nearby(of large size)
+4.Bathrooms. faucets & toilets.(due #1 resudial energy )
