@@ -1,0 +1,9 @@
+Items of color that corresponds to element X will
+ add extra element X to the sleep asana:
+ 1. Large items have greater effect
+ 2.Direction elements(water orange/fire yellow/earth red/Air green)
+ will alter direction elemental flow.
+ 3.Alignment: item that is on same axis as the body will have
+ much more effect that unaligned nearby item.
+ 4.height of item: if slightly above body will have great effect).
+ 
