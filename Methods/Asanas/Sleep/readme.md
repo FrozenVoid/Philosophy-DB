@@ -16,10 +16,10 @@ will cause nightmares(colored according to direction)
 | North | Air [1] | Yin Air+Fire[1][4] | Yang Air+Earth[1] | 
 | East | Fire[6][4] | Yin Fire+Water[3][6] | Yang Fire+Air [6] |
 | West | Earth [5]| Yin Earth+Air[7]| Yang Earth+Water[4][6]  |
-|South-West| Water+Earth[6]|Water[6++]|Water+Air|
+|South-West[A]| Water+Earth[6]|Water[6++]|Water+Air[2]|
 |Sputh-East| Water[6++++++]|Water+Earth[8]|Water+Fire[6]|
-|North-East|Fire+Air|Fire+Water[6++++++]|Fire+Air|
-|North--West|Air+Earth[1++++]|Air+Fire|Air+Water|
+|North-East|Fire+Air[6]|Fire+Water[6++++++]|Fire+Air[7+++][6]|
+|North--West|Air+Earth[1++++]|Air+Fire[1++]|Air+Water[1+]|
 
 
 -----------
@@ -41,3 +41,6 @@ states
 [7] Dehydration
 
 [8]Increased metabolism speed
+
+[A] decreased distance(?) from etheric plane/alien planes:
+increased nightmares, bizzare dreams(alien worlds)
