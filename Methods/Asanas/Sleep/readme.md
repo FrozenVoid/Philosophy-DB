@@ -18,7 +18,7 @@ will cause nightmares(colored according to direction)
 | West | Earth [5]| Yin Earth+Air[7]| Yang Earth+Water[4][6]  |
 |South-West| Water+Earth[6]|Water[6++]|Water+Air|
 |Sputh-East| Water[6++++++]|Water+Earth[8]|Water+Fire[6]|
-|North-East|Fire+Air|Fire|Water[6++++++]|Fire+Air|
+|North-East|Fire+Air|Fire+Water[6++++++]|Fire+Air|
 |North--West|Air+Earth[1++++]|Air+Fire|Air+Water|
 
 
