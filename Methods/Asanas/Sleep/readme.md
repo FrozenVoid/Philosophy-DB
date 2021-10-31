@@ -16,10 +16,10 @@ will cause nightmares(colored according to direction)
 | North | Air [1] | Yin Air+Fire[1][4] | Yang Air+Earth[1] | 
 | East | Fire[6][4] | Yin Fire+Water[3][6] | Yang Fire+Air [6] |
 | West | Earth [5]| Yin Earth+Air[7]| Yang Earth+Water[4][6]  |
-|South-West| Water+Earth[6]|Water[6++]|Water|Air|
-|Sputh-East| Water[6++++++]|Water|Earth[8]|Water|Fire[6]|
-|North-East|Fire+Air|Fire|Water[6++++++]|Fire|Air|
-|North--West|Air|Earth[1++++]|Air|Fire|Air|Water|
+|South-West| Water+Earth[6]|Water[6++]|Water+Air|
+|Sputh-East| Water[6++++++]|Water+Earth[8]|Water+Fire[6]|
+|North-East|Fire+Air|Fire|Water[6++++++]|Fire+Air|
+|North--West|Air+Earth[1++++]|Air+Fire|Air+Water|
 
 
 -----------
