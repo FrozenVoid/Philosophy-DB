@@ -1,0 +1,29 @@
+perception of a simulation
+being simulated is a shortcut
+to simulate complex reality:
+it negates need to "simulate everything"
+by concentrating on 'perceived things'
+i,e, what is observed.
+A similar optimization in video
+games is used to render only
+parts of world looked at,
+with everything else given
+only basic details.
+
+Multiplayer:
+Simulation that has great complexity
+doesn't actually have to render
+everything as-is,by reusing
+pre-existing renderings(Caching)
+and extrapolation(pre-rendering)
+to avoid replication of computation
+for every player.
+
+Some aspects of simulationism
+ draw parallels to video game
+  complexity and RNGs,
+where seeded worlds evolve to
+incredibly complex scenarios
+from a single number for a RNG:
+like a simple singularity expanding into
+a complex universe with galaxies.
