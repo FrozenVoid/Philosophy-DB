@@ -13,5 +13,10 @@ Void->Ether
 
 3.Grounding the element with Earth finger or connecting it to the ground(Earth).
 
-
+4.void vortexes:
+Void element activates
+when flexible elements(hands/fingers/feet/jaws)
+spread apart. This depletes
+ Ether and reduces elemental space for everything else.
+ 
 
