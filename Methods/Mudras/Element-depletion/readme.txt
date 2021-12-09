@@ -11,6 +11,12 @@ Water-Air
 Air->Water
 Void->Ether
 
+Thumb of hand can also be pressed
+down by other fingers,
+to deplete that element energy
+which is usually fed by fire.
+
+
 3.Grounding the element with Earth finger or connecting it to the ground(Earth).
 
 4.void vortexes:
