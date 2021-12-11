@@ -25,8 +25,11 @@ will cause nightmares(colored according to direction)
 -----------
 side effects
 
-[1] Cursed , causes vata overload,soul corruption & possession 
-states
+[1] causes vata overload,soul corruption & possession 
+states.
+Direct access to Astral
+ Plane and astral projection,
+ however protection to astral parasites is tequired.
 
 [2] same as [1] with lesser effect
 
