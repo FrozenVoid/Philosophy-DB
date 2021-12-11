@@ -1,0 +1,13 @@
+Side walking is elemental practice
+where one walks towards direction
+by side-skipping legs.
+Example:
+1.A cardinal direction is picked(e.g. East)
+2. Stand wide facing North,
+with right leg towards East,
+left leg towards West.
+3. put the left leg towards
+the right leg. Move right leg
+further East. Continue facing
+north.
+4. repeat #3
