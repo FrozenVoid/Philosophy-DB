@@ -3,6 +3,6 @@ Color of object touching
  will allow interaction
  with spefific chakra channell
  and its elements.
-Black/Brown interact with feet chakra.
+Black/Brown interact with feet chakra(hell planes)
 Colored Gloves allow constant interaction,
 similar to rings.
