@@ -1,0 +1,72 @@
+Simulationism excludes the
+ possibility of MWI -
+ forking of reality into multiple
+ worlds with independent timelines:
+I.e. the timeline is entirely
+ deterministic and linear.
+ 
+ Arguments for:
+ 1. Simplicity:
+ Forking reality into multiple
+ paths because some microbe
+  randomly decided to swim left
+  or right makes zero sense
+ and requires exponential hardware
+  resources to support 'free choice'.
+
+2. Ability to debug/analyze:
+Fully deteerministic world
+has no true randomness and each
+path has concrete causes and effects;
+similar to Buddhist concept
+of 'depenedent origination',
+each simulated event has a chain
+of causes and effects.
+
+3. Inability to observe
+ quantum state as is, with
+  observation process modifying reality.
+https://en.wikipedia.org/wiki/Measurement_problem
+This would be explained in simulationism
+as prevention of direct access to
+underlying memory, which would
+ be insecure - instead allowing
+ 'proxy observation' wrapping the real 
+ state inside 'observation access event',
+ like a database query.
+
+4.General dislike of random factors
+ like 'chaos' by programmers:
+Complications from random elements
+ might require more effort to prevent
+ 'corner cases' of configurations
+ where bugs/crashes/exploits are possible:
+ e.g. programmers excluding possibility
+ of specific event sequence or configuration
+ of objects, that with random(chaos)
+ influence will eventually manifest.
+ 
+ 
+
+
+Arguments against:
+1.Quantum randomness:
+Existence of basic, irreducible
+ chaos inside the simulation
+that can't be explained(hidden variables)
+is a primary argument.
+
+2.Free Will from different plane:
+The argument is that
+ thoughts/ideas originate in
+ higher planes and bypass determinism
+ by adding another layer:
+This doesn't prevent determinism 
+as it requires the original 
+source to be random,
+but adds a possibility of
+ some idea acting as timeline  
+ splitting event by interpretation.
+ 
+
+
