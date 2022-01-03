@@ -10,7 +10,8 @@ component that uses emotional
  in favor of easy replication/modification.
  
  Memes sacrifice verbosity for
-  immediate, instictual recognition
+  immediate, instinctual recognition
   that is processed emotionally,
-  rather than rationally unlike 
+  rather than rationally like 
  more complex content.
+ 
