@@ -10,7 +10,7 @@ Ascension is not always visible
  involving vast spiritual effort
  or prolonged influence of external
  powers/circumstances driving
- spirirual evolution.
+ spiritual evolution.
 
 
 Ascension is constrasted with
@@ -40,7 +40,10 @@ or entering it,
  ascension as process:
  the depicted above is apotheosis.
 
-
+Ascension is associated with
+gaining new powers and deeper
+ senses, expansion of awareness
+ and quality of mindstream.
 
 
  
