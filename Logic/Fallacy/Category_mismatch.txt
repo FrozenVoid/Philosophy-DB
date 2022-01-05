@@ -1,0 +1,15 @@
+A contradictory proposition that is assuming
+that one category is compatible
+with another.e.g. a square circle.
+
+Logical impossibility: 
+A is both true and false.
+A implies that A is B and not A.
+A has property X and Y, X implies
+that A cannot have Y and vice versa.
+
+Reaching category mismatch usually
+disproves the initinal assumptions:
+reductio ad absurdum arguments and
+logical fallacies in general rely
+on category mismatch to refute propositions.
