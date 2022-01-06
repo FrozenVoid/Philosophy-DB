@@ -1,0 +1,12 @@
+Hidden crystal(stone) can have 
+influence from its place as
+area modifier.
+Method:
+1. Select a crystal for elemental
+quality desired.
+2. Optiona: Add sigils.
+3. Charge its primary element 
+with mantra or spells.
+4. Hide/Bury the crystal in 
+desired area.
+5. Wait.
