@@ -4,7 +4,9 @@ area modifier.
 Method:
 1. Select a crystal for elemental
 quality desired.
-2. Optiona: Add sigils.
+2. Optional: Add sigils(color
+ must be same as chakra color
+  influenced or stone color).
 3. Charge its primary element 
 with mantra or spells.
 4. Hide/Bury the crystal in 
