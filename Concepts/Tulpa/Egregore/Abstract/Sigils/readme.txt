@@ -4,6 +4,7 @@ by similar way a 'name' is a mantra
  pattern used for summoning it.
 
 Sigils vs names:
+
 Sigils are direct graphical 
 embodiment of energy pattern which
  is not bound by language/font/letter
@@ -19,4 +20,6 @@ Names are an abstract, referential
  mantric pattern which depends 
  on proper vocalization and
  language recognition.
- 
+ Brand names are just words,
+ but their unique representation
+ is the sigil.
