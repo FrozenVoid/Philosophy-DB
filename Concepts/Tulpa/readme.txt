@@ -39,7 +39,15 @@ become tulpa with time.
 5.Tulpa are not always 'human'
  they can be anything from
  abstract concept like 'money' to
-  a 'home building tulpa'.
+  a 'home building tulpa':
+  tulpas that feed on multiple
+  people energy or produce
+  their own energy cords will
+  become egregores and separate
+  from their host.
+
+  
+  
 
 6.Souls can be produced from
  tulpa(used as substrate) by 
@@ -60,4 +68,7 @@ with limited sentience.
  Tulpas can be thought of
   a mental body projections 
   given autonomy.
+    Tulpas can merge, fission and generate
+  their own tulpas(usually using
+  host's energy).
   
