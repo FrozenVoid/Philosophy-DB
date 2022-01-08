@@ -15,3 +15,4 @@ to geographical locations
 as large as mountain ranges.
 
 https://en.wikipedia.org/wiki/Genius_loci
+https://en.wikipedia.org/wiki/Spirit_of_place
