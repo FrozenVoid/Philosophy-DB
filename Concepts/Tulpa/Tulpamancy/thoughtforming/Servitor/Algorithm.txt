@@ -1,0 +1,31 @@
+At core of every servitor
+there is a mechanical, sequential
+ script that acts like an algorithm:
+ Each step/part of a script is
+ a language description of 
+ a sub-task, which when completed
+ moved to another sub-task as
+ execution of script continues.
+ 
+ Unlike robots/computers, servitors
+ have some flexibility interpreting
+ the script(sense of intent is important)
+ combining energy of intent and
+ mental imagery associated with 
+ words into a coherent structure.
+ 
+ Triggers/Condition:
+ Algorithm is usually set in background
+ as servitor isn't active all of 
+ time, but when a triggering event
+ is set, servitor spring to life 
+ and takes control of host's mind
+ to perform the script.
+ 
+ Termination:
+ Script can have multiple conditions
+  for termination/exit, usually 
+  at end, however it can also
+  stall on specific step waiting
+  for next condition/state to activate
+  in a loop.
