@@ -5,6 +5,10 @@ visualize the path as 'general drawing
  directions', not as precise
  locations but a guiding direction.
 
+Note: left/right hands have
+different polarity of energy(yin/yang), usually
+Right=Yang.
+
 Figures of air sigils are
  repeated until
 the desired elemental configuration]
