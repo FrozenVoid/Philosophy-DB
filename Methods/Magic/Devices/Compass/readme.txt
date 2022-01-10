@@ -11,15 +11,16 @@ Direction:
 West=Earth, Grounding, Root chakra
 material plane, cold ground, Heavy Yin.
 
-South-West= align with Void element,
+South-West= aligns with Void element,
 Kapha humor and general decline in Vata,
 Underworld energy, Abyssal planes.
 
-South=Water,Sacral chakra,Vitality,
+South=Water,Sacral chakra,Vitality/Health,
 Lucidity and personal power.
+Reduces astral energy.
 
 South-East= Pitta humor, lower
- fire, heavy Yang,metabolism and renewal
+ fire, heavy Yang,metabolism and renewal.
 
 East=Fire,Solar,Stomach,
 rational intellect(algorithmic)
@@ -32,3 +33,8 @@ North=Air, Heart, Astral plane,
 increases emotional load,
 extremely disbalancing, aids
  refinement. center of Vata humor.
+
+North-West= associated with
+ rudra mudra(Air-Earth),
+spiritual growth, calming,
+refined/light Kapha. Yin states.
