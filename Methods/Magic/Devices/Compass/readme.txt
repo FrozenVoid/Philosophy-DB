@@ -25,6 +25,7 @@ South-East= Pitta humor, lower
 East=Fire,Solar,Stomach,
 rational intellect(algorithmic)
 
+
 North-East= Ether(lower, higher
 is upward) due Air-Fire.
 dry fire. Extreme Yang.
@@ -38,3 +39,7 @@ North-West= associated with
  rudra mudra(Air-Earth),
 spiritual growth, calming,
 refined/light Kapha. Yin states.
+
+NOTE:sleeping in this 
+direction(NW) has risks:
+https://github.com/FrozenVoid/Philosophy-DB/blob/3dafea9fb9c81244352d45486cb5a711e1c39c67/Concepts/Spirit/Corruption/North-west-vector.txt
