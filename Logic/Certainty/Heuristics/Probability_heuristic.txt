@@ -1,0 +1,6 @@
+Relying on a heuristic that 
+is static is ignoring low-probability events:
+I.e. converting "high-probability" to binary yes/no certainty
+(0/1) is an approximation.
+see this article:
+https://astralcodexten.substack.com/p/heuristics-that-almost-always-work
