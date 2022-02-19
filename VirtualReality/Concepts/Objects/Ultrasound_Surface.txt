@@ -1,0 +1,5 @@
+A surface illusion created by
+applying interfering waves at 
+specific locations to simulate
+touch in "mid-air" overlay.
+https://hapislab.org/public/hiroyuki_shinoda/research/pdf/08SIGGRAPH/08_iwamoto.pdf
