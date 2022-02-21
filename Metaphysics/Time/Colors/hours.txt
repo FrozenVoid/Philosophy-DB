@@ -1,0 +1,17 @@
+//preliminary
+//day cycle
+6:00 Red
+8:00 Orange
+10:00 Light Orange/Orange-Yellow
+12:00 Yellow
+14:00 Green
+16:00 Blue
+17:00 Violet
+//night cycle
+18:00 Dark Red
+20:00 Orange-Red
+22:00 Dark Orange
+24:00 Dark Yellow
+2:00 Dark Green
+4:00 Dark Blue
+5:00 Dark Violet
