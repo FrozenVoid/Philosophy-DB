@@ -1,0 +1,11 @@
+Current DL/MM effort begins
+to approach "accidentally quadratic" 
+territory where throwing more hardware
+ doesn't help much.
+Consider the amount of hardware that
+made current DL/NN hype stories possible
+like e.g. AlphaGo and you will see it 
+more as demonstration of efficiency in
+using bruteforce computation ("training" speed for massively pararell primitive operations) instead of solving software 
+side problems("algorithmic" 
+efficiency and complexity).
