@@ -1,0 +1,17 @@
+Self-improvement is capability
+ spectrum of AIs that can 
+ apply  "functional optimization"
+ towards their own structure,
+ contrasted with static AIs that
+can only optimize their dataset.
+
+Paths to self-improvement:
+1.Moving static code to data
+ structures defining control
+ flow.
+2.Turning external parameters to variables
+ accesible to optimization.
+3.Dynamic components instead
+of static structures: 
+e.g. components that are 
+added/removed as needed
