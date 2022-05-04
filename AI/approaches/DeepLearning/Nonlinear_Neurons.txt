@@ -1,0 +1,4 @@
+A typical neuron in a NN receives and outputs
+along a linear hierarchy. 
+A non-linear neuron would have freedom to
+connect to layers outside this linear path.
