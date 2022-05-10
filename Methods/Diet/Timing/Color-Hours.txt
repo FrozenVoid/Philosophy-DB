@@ -1,0 +1,11 @@
+A food of specific color X eaten
+at hour of color X will have detrimental
+effects via Vata/Pitta/Kapha humor overload.
+The effects diminish with time-distance
+from ingestion:
+e.g.orange food ingested 1 hour before Orange hour
+will have more negative effect than 3 hours before.
+
+
+Reference for colors:
+https://github.com/FrozenVoid/Philosophy-DB/blob/main/Metaphysics/Time/Colors/hours.txt
