@@ -8,3 +8,4 @@ A mental process that persuades
   as hypnosis and subliminal suggestions.
   
  
+https://en.wikipedia.org/wiki/Brainwashing
