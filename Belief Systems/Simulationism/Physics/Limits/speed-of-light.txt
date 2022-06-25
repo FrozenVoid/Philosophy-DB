@@ -1,0 +1,10 @@
+Speed of light is approximately
+ 1 billion feet in Roman units,
+ which is suspiciously artificial like
+ a 'const C=1000000000'.
+ https://en.wikipedia.org/wiki/Ancient_Roman_units_of_measurement#Length
+ 
+ Values of the ancient Roman foot determined by Greaves in 1639 Source 	Reported value in English feet 	Metric equivalent
+Foot on the statue of Cossutius 	0.96700  	29.486 cm 
+Foot on the monument of Statilius 	0.97200  	29.638 cm 
+Foot of Villalpandus, derived from Congius of Vespasian 	0.98600  	30.065 cm  
