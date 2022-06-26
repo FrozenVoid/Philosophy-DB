@@ -11,10 +11,10 @@ instant of time then it is in motion``
 The paradox stems from flawed definition
 of a moment as 0-length time period,
 at which speed is multiplied by 0-len and
-appears zero at infinetesimal lengtgh(which is not).
+appears zero at infinetesimal length(which is not).
+
 Resolution: define moment as 1/n seconds
 and measure time K on it as period of
 arrow flight, then increase n to arbitrary
-amount and observe proportional K reduction
-that DOES not change speed which is independent of
- K(As 1/n approaches zero speed does not change)
+amount and observe proportional distance(K-dependent) reduction
+that DOES not change speed which is independent of K period(distance/speed=K):As 1/n approaches zero speed does not change,K and distance just decreases to infinitesimal numbers(as in 1-0.999...)
