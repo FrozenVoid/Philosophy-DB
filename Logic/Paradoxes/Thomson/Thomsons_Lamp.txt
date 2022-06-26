@@ -1,0 +1,14 @@
+https://en.wikipedia.org/wiki/Thomson%27s_lamp
+The paradox stem from the idea that
+series of 1+1/2^n+1/2^(n+1) sum to 2,
+which is always below 2 and the genie
+will switch the lamp on/off forever:
+the series cannot converge to 2, only decrease
+the infinitesimal distance from 1/2 to 1/2^n->inf
+that allow space to turn the lamp on/off
+at each 1/2^n step ad infinitum.
+
+Note:as with most such paradoxes, treating
+infinitesimals as zeros due Archimedean property
+ considered axiomatic leads to similar absurd 
+ conclusions.
