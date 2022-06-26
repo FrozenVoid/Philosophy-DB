@@ -1,0 +1,20 @@
+``If everything when it occupies an equal space 
+is at rest at that instant of time, and if that
+which is in locomotion is always occupying 
+such a space at any moment, the flying arrow
+is therefore motionless at that instant of
+time and at the next instant of time
+but if both instants of time are taken
+as the same instant or continuous
+instant of time then it is in motion``
+
+The paradox stems from flawed definition
+of a moment as 0-length time period,
+at which speed is multiplied by 0-len and
+appears zero at infinetesimal lengtgh(which is not).
+Resolution: define moment as 1/n seconds
+and measure time K on it as period of
+arrow flight, then increase n to arbitrary
+amount and observe proportional K reduction
+that DOES not change speed which is independent of
+ K(As 1/n approaches zero speed does not change)
