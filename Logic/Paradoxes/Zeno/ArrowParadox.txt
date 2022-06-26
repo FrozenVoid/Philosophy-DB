@@ -18,3 +18,7 @@ and measure time K on it as period of
 arrow flight, then increase n to arbitrary
 amount and observe proportional distance(K-dependent) reduction
 that DOES not change speed which is independent of K period(distance/speed=K):As 1/n approaches zero speed does not change,K and distance just decreases to infinitesimal numbers(as in 1-0.999...)
+
+Note:rejection of reality of infinitesimals due Archimedean property treated as axiom is source of many
+such paradoxes where infinitesimal quantities
+are treated as zero quantity and multiplied/transformed to reveal the actual quantity.
