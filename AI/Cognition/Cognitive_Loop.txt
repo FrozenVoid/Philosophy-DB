@@ -1,0 +1,15 @@
+A cognitive loop is a background process
+that spawn other processes as necessary,
+usually responding to inputs as they
+ appear and change the program state:
+ a cognitive loop is the "orchestra conductor" that
+ switches to specific state and alters
+ its responses to input independent of input(
+ i.e. it does not require input to act).
+ 
+Most current AIs are static pattern
+recognizers that lack a cognitive loop
+and cannot 'branch' or 'specialize' dependent
+on input: their responses are static
+sequence of same format as their state
+is completely input-driven by design.
