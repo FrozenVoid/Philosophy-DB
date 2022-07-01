@@ -13,7 +13,7 @@
  could create a toxic VR expirience.
  
  
- Sight: A pattern of colors/frames/picture could\
+ Sight: A pattern of colors/frames/picture could 
  be engineered to overload the brain of
  viewer, similar to epileptic triggers, though
  the more sinister approach would allow
@@ -26,7 +26,7 @@
  could be exploited to harm or overload specific
  circuits in the brain, change moods or alter
  perception. These would be especially potent
-  as invisible, non-perceptible sound scould be
+  as invisible, non-perceptible sounds could be
   inserted in any context or be dynamically
   generated from multiple sources(as combination
   or interference pattern). Induced voice
