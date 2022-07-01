@@ -1,0 +1,27 @@
+A general risk category that allow
+ to create unsafe/harmful content from
+ safe content is "Combination sequence".
+ In virtual world the content pieces could
+ only be verified to be safe in isolation,
+ as combinatorial explosion prevents testing
+ of each combination of elements.
+This allow to construct "Combination payloads"
+of specific content pieces as sequences that
+generates "harmful content" as defined by
+system rules. The landscape of such combinations
+is vast, but variety of such content can be classified
+as following:
+1.Partial generation: objects generate a seemingly
+benign part of content, which combined in time
+create a "musical" sequence that has effects outside
+of its parts.
+2.Modified content: A piece of benign content
+is modified in sequence that results in harmful
+content, with each modification step performed
+by separate object or event.
+3.Misperception: objects disguse content or
+other objects, but appear benign in isolation.
+An activated sequence would reveal the content or
+pattern of events.
+
+ 
