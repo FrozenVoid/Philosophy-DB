@@ -1,3 +1,0 @@
-A test if recognized pattern will be valid with mutated parameters:
-determine the parameter space of pattern: is it narrow/wide?
-Can the pattern mutate into another via parameter change?
