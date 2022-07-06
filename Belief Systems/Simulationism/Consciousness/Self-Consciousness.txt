@@ -1,0 +1,42 @@
+Self-Consciousness(SC) is a fundamental quality of
+existence that is assumed to require apriori existence
+of mind-substrate maintaining this "stream of Consciousness":
+The point of reference to expirience of 
+existence in-situ: even in "brain-in-a-jar" simulation
+the mind-substrate has locality and separate
+existence than global/group consciousness.
+Given that all living entities have SC,
+simulation requires running separate processes
+and hardware-level separation for a simulated
+reality that is running concurrently with
+replicas of each world: such collosal waste of
+resources is highly unlikely, equivalent to
+a MMO client running entire copy of MMO locally
+with other clients sending updates to it.
+
+The idea of SC being shared resource has 
+the following advantages:
+1.Time-sharing SC: micro-slices of SC could be
+allocated as required.
+2.Coherence: entire SC runs on single mind-substrate
+3.No multi-threaded realities required.
+
+So a pragmatic simulated world would likely use
+single Self-Consciousness as component module
+allocated to each "mind-process" in simulation:
+when the simulation needs SC in a mind, 
+the mind uses the shared module instead of
+running SC as separate observational process:
+The idea that SC magically multiplies resource
+requirements for a simulation(multi-reality simulation)
+is an unoptimized brute-force solution that
+implies mind-qualia/mind-configuration are somehow
+dynamic processes requiring constant reinforcement
+to exist, instead of local configurations that 
+global SC module loads per-mind as required
+for self-observation.
+
+
+
+
+
