@@ -6,4 +6,5 @@ material plane.
 
 Colors: The influence of plastic depends on
 the color, with brighter colors of lower chakras
- having the most effect: Fire
+ having the most effect: Fire-Yellow,Water-Orange,
+ Earth-Red. 
