@@ -21,8 +21,8 @@ Mantra cheatsheet
 | JAH | Increased vigor, happiness & life satisfaction |
 | JAM | Block psychic attacks, Crown chakra |
 | JUM  | Inspiration, Strength,  Focused work |
-| KUT  | Libido reduction, crown chakra | 
 | KRIM | Reduce headache, purification, creativity |
+| MAH  | Libido reduction,sleep,chakra clearing | 
 | RHIM | Increase Luck, heals Chest/Throat |
 | RHUM | Healing & energy flow, Heals stomach area |
 | SUM  | Harmony, Order, Balance |
