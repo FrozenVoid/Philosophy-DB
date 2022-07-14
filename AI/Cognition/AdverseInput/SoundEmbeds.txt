@@ -1,0 +1,5 @@
+Commands for "smart" devices can be embedded in sounds
+with various degrees of stealth:
+These commands could be used as vector for
+exploits or covert control.
+https://www.nytimes.com/2018/05/10/technology/alexa-siri-hidden-command-audio-attacks.html
