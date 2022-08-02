@@ -15,6 +15,7 @@ Mantra cheatsheet
  | CHIT  | Pain removal |
 | HA  |Against Sleepiness, increase healing |
 | HIM | Inspiration , magnified senses |
+| HRIH| Refinement and amplification of emotion |
 | HUM | Reduce hunger, Grounding/Stability |
 | GAM | Increase  Strength & Will, Digestion/Fire  |
 | IIM | Increase Energy, Water |
