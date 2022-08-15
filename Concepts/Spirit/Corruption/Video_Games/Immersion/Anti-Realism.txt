@@ -1,0 +1,32 @@
+It is a common misconception that realism
+automatically provides immersion. Nothing
+could be more wrong: realism provides more
+direct comparison with real-world objects that
+trigger immersion breaks where virtual objects
+show their 'irreality' and artificial quality.
+Abstract and less realistic art styles(such as anime)
+provide far more insidious type of immersion
+that is more detached from real-world concerns,
+aka 'bright and fluffy' aesthethic which
+allows to incorporate more sinister themes and
+behavior patterns inside a game that would
+look jarring if it were realistic:
+
+Example A:
+A Mario player avatar stomps on a virtual
+turtle vs human breaking a turtle shell and 
+killing a turtle that spreads its guts on death.
+The former would be far more palatable
+to a child playing a game, which look very
+abstract and clean(as pixel art) -
+the 'realistic version' gory details would
+be more realistic but they would detract
+from immersion formed within the game.
+
+The abstract-simplified graphics and
+reduced realism allow game design freedom
+of exploring any behavior pattern that
+could be imposed on a player - cues from
+game world can overpower realism as game
+mechanics values are learned by a player.
+
