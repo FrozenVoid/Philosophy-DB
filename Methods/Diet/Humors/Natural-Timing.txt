@@ -1,0 +1,14 @@
+Day(Yang primary pitta-kapha)
+ Earth - 1/3 of sunrise to midday
+ Water(kapha) - 2/3 of sunrise to midday
+ Water(pitta) - 3/3 of sunrise to midday
+ Fire - 1/3 of midday to sunset
+ Air  - 2/3 of midday to sunset
+ Ether -3/3 of midday to sunset
+Night(Yin primary vata-kapha),
+ Earth - 1/3 of sunset to midnight
+ Water(kapha) - 2/3 of sunset to midnight
+ Water(pitta) - 3/3 of sunset to midnight
+ Fire - 1/3 of midnight to sunrise
+ Air  - 2/3 of midnight to sunrise
+ Ether -3/3 of midnight to sunrise
